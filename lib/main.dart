@@ -36,7 +36,7 @@ class _ProductListPageState extends State<ProductListPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color.fromARGB(255, 163, 94, 11),
+        backgroundColor: Color.fromARGB(255, 216, 130, 24),
         actions: [
           Padding(
             padding: const EdgeInsets.all(8.0),
